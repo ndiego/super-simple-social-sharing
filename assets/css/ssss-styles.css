@@ -1,0 +1,34 @@
+.super-simple-social-sharing {
+  text-align: center;
+  margin-bottom: 20px;
+}
+.super-simple-social-sharing a {
+	vertical-align: middle;
+	display: inline-block;
+	border-radius: 100%;
+	margin: 5px;
+	padding: 14px;
+	background-color: #333;
+	transition: all .1s ease-in;
+	line-height: 0;
+}
+.super-simple-social-sharing a.twitter {
+  background-color: #00aced;
+}
+.super-simple-social-sharing a.facebook {
+  background-color: #3b5998;
+}
+
+.super-simple-social-sharing a.google {
+  background-color: #dd4b39;
+}
+
+.super-simple-social-sharing	a:hover {
+	opacity: .7;
+}
+
+.super-simple-social-sharing	svg {
+	fill: #fff;
+	width: 24px;
+	height: 24px;
+}
