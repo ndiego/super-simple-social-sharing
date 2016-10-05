@@ -5,7 +5,7 @@
  * Description: Easily add social sharing icons to your website!
  * Author:      Nick Diego
  * Author URI:  http://www.nickdiego.com
- * Version:     1.0.0
+ * Version:     0.1.0
  * Text Domain: super-simple-social-sharing
  * Domain Path: languages
  *
